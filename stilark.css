@@ -1,0 +1,49 @@
+ body {
+     text-align: center;
+        }
+th,td {
+    border-style:double;
+    border-bottom-color: fuchsia;
+    text-align: center
+}
+style {
+    text-align: center;
+    vertical-align: middle; 
+}
+ul{
+    list-style-type:georgian;
+    margin-right: auto;
+    margin-left: auto;
+    padding:inherit;
+}
+li{
+    display: inline;  
+} 
+ul a{
+    display: block;
+    width: auto;
+    height: auto;
+    border-radius: 99px;
+    margin: 10px;
+    text-decoration: none;
+    display: inline-block;
+    background-image: url(pepela.png);
+    padding: 80;
+    font-size: 25px;
+    border: 2px solid black;
+    box-shadow: 10px 10px;
+    }
+
+ul a:hover{
+    background-image: url(PogO.png);
+    width: 200px;
+    height: 200px;
+
+}
+ul a:active{
+    background-image: url(tenor.gif);
+    background-size: contain
+        
+}
+
+    
